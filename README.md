@@ -61,7 +61,7 @@ The service uses SQLite to store metadata about the uploaded files. The upload_f
 - POST /: Upload a file to the server.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 
 
