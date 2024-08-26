@@ -17,8 +17,8 @@ This project is a simple file upload service built using FastAPI, SQLAlchemy, an
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/SorawitChok/fastapi-file-upload.git
-   cd fastapi-file-upload
+   git clone https://github.com/SorawitChok//Upload-files-fastapi.git
+   cd Upload-files-fastapi
    ```
 2. Create and activate a virtual environment:
    ```bash
